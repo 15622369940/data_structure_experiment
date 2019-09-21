@@ -12,7 +12,7 @@ git clone https://github.com/singngai/data_structure_experiment.git
 sudo apt install git # For Ubuntu
 ```
 ```bash
-brew install git
+brew install git # For macOS
 ```
 simply open terminal and type the following command to clone this repo:
 ```bash
