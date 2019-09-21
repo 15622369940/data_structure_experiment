@@ -4,11 +4,17 @@ Source code and report for *Data Structure* course project, School of Artificial
 
 ## Getting Started
 - For Windows users, you may first download [Git](https://git-scm.com/), then right-click `Git Bash Here`, type the following command to clone this repo:
-```
+```bash
 git clone https://github.com/singngai/data_structure_experiment.git
 ```
-
-- For Linux and macOS users, simply open terminal and type the following command to clone this repo:
+- For Linux and macOS users, make sure you have got your git installed, if not, use the command below to install:
+```bash
+sudo apt install git # For Ubuntu
 ```
+```bash
+brew install git
+```
+simply open terminal and type the following command to clone this repo:
+```bash
 git clone https://github.com/singngai/data_structure_experiment.git
 ```
